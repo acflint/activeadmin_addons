@@ -491,6 +491,7 @@
             fillHiddenInput();
           }
         }
+        fillHiddenInput();
       });
     }
   };
