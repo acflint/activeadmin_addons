@@ -68,6 +68,8 @@ var initializer = function() {
           fillHiddenInput();
         }
       }
+
+      fillHiddenInput();
     });
   }
 };
